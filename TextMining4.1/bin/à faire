@@ -1,0 +1,6 @@
+.Ne pas prendre la matrice creuse, mais une map !
+.Merge with TextMining3
+.variable nb_clusters
+.commentez
+.choix de distance à ajouter
+.distances ward et moyenne
